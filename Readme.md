@@ -6,3 +6,8 @@
 - Eliminate long lunch lines in institutional canteens.
 - Allow users to preorder food and select pickup times.
 - Provide a clean administrative dashboard for canteen management.
+
+## 🛠️ Architecture & Backend
+- Built on Node.js and Express.js REST API.
+- MongoDB with Mongoose for persistent data models.
+- JWT-based authentication for secure session management.
