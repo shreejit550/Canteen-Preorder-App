@@ -11,3 +11,8 @@
 - Built on Node.js and Express.js REST API.
 - MongoDB with Mongoose for persistent data models.
 - JWT-based authentication for secure session management.
+
+## 💻 Frontend Client
+- Responsive React application styled with Tailwind CSS.
+- Real-time cart state management via Context API.
+- Integrated payment verification and order history.
